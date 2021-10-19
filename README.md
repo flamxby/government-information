@@ -10,7 +10,7 @@
 * [Presentation](https://github.com/flamxby/government/wiki/Presentation)
 
 ## Getting Started
-* [Project Installation Instructions](INSTALL.md)
+* [Project Installation Instructions](https://github.com/flamxby/government/blob/master/INSTALL.md)
 
 ***
 ## Team Members and Contributors
