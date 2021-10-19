@@ -1,4 +1,5 @@
 # Information Hub
+*by Flamby Group*
 > A repository contains all project documents.
 
 ## Project Documents
