@@ -9,9 +9,13 @@
 * [Team Schedule](https://github.com/flamxby/government/wiki/Team-Schedule)
 * [API Plan and Budget](https://github.com/flamxby/government/wiki/API-Plan-and-Budget)
 * [Presentation](https://github.com/flamxby/government/wiki/Presentation)
+* [API Documentation](https://github.com/flamxby/government/wiki/API-Documentation)
 
-## Getting Started
-* [Project Installation Instructions](https://github.com/flamxby/government/blob/master/INSTALL.md)
+### Getting Started
+* [Project Installation Instructions](INSTALL.md)
+
+### Iteration Plan
+* [Iteration 1 Plan]() and [Task Board](https://github.com/flamxby/government/projects/1)
 
 ***
 ## Team Members and Contributors
