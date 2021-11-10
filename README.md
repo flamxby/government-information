@@ -11,6 +11,7 @@
 * [API Documentation](https://github.com/flamxby/government/wiki/API-Documentation)
 * [Measurement and Analysis](https://github.com/flamxby/government/wiki/Measurement-and-Analysis)
 * [Configuration Management](https://github.com/flamxby/government/wiki/Configuration-Management)
+* [Project Monitoring and Control](https://github.com/flamxby/government/wiki/Project-Monitoring-and-Control)
 * [Presentation](https://github.com/flamxby/government/wiki/Presentation)
 
 ### Getting Started
