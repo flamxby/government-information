@@ -16,7 +16,7 @@
 * [Presentation](https://github.com/flamxby/government/wiki/Presentation)
 
 ### Getting Started
-* [Project Installation Instructions](INSTALL.md)
+* [Project Installation Instructions](https://github.com/flamxby/government/blob/master/INSTALL.md)
 
 ### Iteration Plan
 * [Iteration 1 Plan](https://github.com/flamxby/government/wiki/Iteration-1-Plan) and [Task Board](https://github.com/flamxby/government/projects/1)
