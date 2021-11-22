@@ -28,6 +28,10 @@
 * [Test Plan for Iteration 2](https://github.com/flamxby/government/wiki/Test-Plan-for-Iteration-2)
 * [Test Plan for Iteration 3](https://github.com/flamxby/government/wiki/Test-Plan-for-Iteration-3)
 
+## Related Repositories
+* [Information Hub](https://github.com/flamxby/government-information)
+* [Vaccination Report](https://github.com/flamxby/government-chart)
+
 ***
 ## Team Members and Contributors
 ### Product Owner
