@@ -29,7 +29,7 @@
 * [Test Plan for Iteration 3](https://github.com/flamxby/government/wiki/Test-Plan-for-Iteration-3)
 
 ## Related Repositories
-* [Information Hub](https://github.com/flamxby/government-information)
+* [Government Module](https://github.com/flamxby/government)
 * [Vaccination Report](https://github.com/flamxby/government-chart)
 
 ## Swagger UI
