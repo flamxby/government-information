@@ -28,12 +28,6 @@
 * [Test Plan for Iteration 2](https://github.com/flamxby/government/wiki/Test-Plan-for-Iteration-2)
 * [Test Plan for Iteration 3](https://github.com/flamxby/government/wiki/Test-Plan-for-Iteration-3)
 
-## Related Repositories
-* [Government Module](https://github.com/flamxby/government)
-* [Vaccination Report](https://github.com/flamxby/government-chart)
-
-## Swagger UI
-https://flamxby.herokuapp.com/docs
 
 ***
 ## Team Members and Contributors
