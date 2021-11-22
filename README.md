@@ -32,6 +32,9 @@
 * [Information Hub](https://github.com/flamxby/government-information)
 * [Vaccination Report](https://github.com/flamxby/government-chart)
 
+## Swagger UI
+https://flamxby.herokuapp.com/docs
+
 ***
 ## Team Members and Contributors
 ### Product Owner
