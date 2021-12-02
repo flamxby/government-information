@@ -13,6 +13,7 @@
 * [Configuration Management](https://github.com/flamxby/government/wiki/Configuration-Management)
 * [Project Monitoring and Control](https://github.com/flamxby/government/wiki/Project-Monitoring-and-Control)
 * [Quality Assurance](https://github.com/flamxby/government/wiki/Quality-Assurance)
+* [Final](https://github.com/flamxby/government/wiki/Final)
 * [Presentation](https://github.com/flamxby/government/wiki/Presentation)
 
 ### Getting Started
